@@ -5,7 +5,7 @@ variable "project_id" {
 
 }
 
-variable "region" {
+variable "managment-region" {
   description = "The GCP region"
   type        = string
   default     = "us-central1"
