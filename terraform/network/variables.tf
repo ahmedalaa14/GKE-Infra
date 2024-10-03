@@ -1,27 +1,27 @@
 variable "managment-region" {
-    type = string
-    default = "us-central1"
+  type    = string
+  default = "us-central1"
 }
 
 variable "workload-region" {
-    type = string
-    default = "us-east1"
+  type    = string
+  default = "us-east1"
 }
 
 variable "management-subnet" {
-    type = string
+  type = string
 }
 
 variable "workload-subnet" {
-    type = string
-  
+  type = string
+
 }
 
 variable "project_id" {
-    type = string
+  type = string
 }
 
 variable "service_account" {
-    type = string
-  
+  type = string
+
 }
