@@ -1,6 +1,6 @@
 # GKE Infra
 
-- Deploy a Node-JS Application connected with high available MongoDB cluster on GKE using Terraform.
+- Deploy a Node-JS Application connected with high available MongoDB cluster on GKE using Terraform
 
 # Project Structure
 
